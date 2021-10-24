@@ -1,0 +1,32 @@
+cardsrow {
+    display:block;
+    padding:10px;
+}
+
+cardsrow card {
+    display: block;
+    width: 250px;
+    height: 180px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    float: left;
+    margin-right:10px;
+    padding-top:5px;
+    padding-left:8px;
+    padding-right:8px;
+    padding-bottom:5px;
+}
+
+cardsrow card cardtitle {
+    display:block;
+    font-family:'Agency FB';
+    font-size:30px;
+    font-weight:bold;
+}
+
+cardsrow card cardtext {
+    display: block;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+}
